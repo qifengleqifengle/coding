@@ -1,0 +1,8 @@
+node_modules
+.next
+dist
+.git
+server/data/raw
+npm-debug.log
+.env
+backups

@@ -1,0 +1,8 @@
+{
+  "name": "algo-arena-api",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": { "start": "node src/index.mjs", "test": "node --test" },
+  "dependencies": { "cors": "2.8.5", "express": "5.1.0", "pg": "8.16.3" }
+}

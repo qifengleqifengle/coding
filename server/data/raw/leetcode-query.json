@@ -1,0 +1,1 @@
+{"query":"query questionData($titleSlug: String!) { question(titleSlug: $titleSlug) { questionFrontendId translatedTitle translatedContent difficulty exampleTestcases codeSnippets { lang langSlug code } topicTags { translatedName slug } } }","variables":{"titleSlug":"group-anagrams"}}
